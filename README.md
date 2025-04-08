@@ -1,5 +1,7 @@
 # 🧠 Zero-Shot Object Detection using OWL-ViT
 
+Demo video of working: https://drive.google.com/file/d/1XjAp3kVgECUFEdgINgOL1lgJoz73O8hx/view?usp=sharing
+
 This project demonstrates **Zero-Shot Object Detection** using **OWL-ViT (Open World Localization Vision Transformer)**, applied on **real-time webcam input**. Unlike traditional detectors trained on a fixed set of classes (e.g., COCO), OWL-ViT enables object detection via **natural language prompts** — making it ideal for **custom, non-COCO categories** such as:
 
 - Lightbulb  
